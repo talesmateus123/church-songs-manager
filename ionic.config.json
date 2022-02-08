@@ -1,0 +1,7 @@
+{
+  "name": "church-songs-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
